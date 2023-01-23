@@ -1,1 +1,13 @@
 hola 
+16
+11
+12
+15
+12
+promedio -nan(ind)
+ 
+promedio -nan(ind)
+ 
+promedio -nan(ind)
+ 
+promedio -nan(ind)
